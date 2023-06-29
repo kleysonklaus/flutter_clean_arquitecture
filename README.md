@@ -1,6 +1,6 @@
 # flutter_clean_arquitecture
 
-A new Flutter project.
+### Flutter V 3.10.4
 
 ## Getting Started
 
